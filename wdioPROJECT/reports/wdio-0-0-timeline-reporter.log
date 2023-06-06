@@ -1,0 +1,170 @@
+{
+  "start": "2023-05-29T12:18:29.400Z",
+  "end": "2023-05-29T12:21:46.502Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "Kaushik2",
+      "automationName": "UiAutomator2",
+      "appPackage": "org.khanacademy.android",
+      "appActivity": "org.khanacademy.android.ui.library.MainActivity"
+    },
+    "platformName": "Android",
+    "deviceName": "302c04ec",
+    "automationName": "UiAutomator2",
+    "appPackage": "org.khanacademy.android",
+    "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+    "deviceUDID": "302c04ec",
+    "deviceApiLevel": 33,
+    "platformVersion": "13",
+    "deviceScreenSize": "1080x2400",
+    "deviceScreenDensity": 440,
+    "deviceModel": "2109119DI",
+    "deviceManufacturer": "Xiaomi",
+    "pixelRatio": 2.75,
+    "statBarHeight": 104,
+    "viewportRect": {
+      "left": 0,
+      "top": 104,
+      "width": 1080,
+      "height": 2062
+    },
+    "sessionId": "92664541-2345-4013-a324-79e1d548ed9f"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "",
+  "framework": "mocha",
+  "duration": 197102,
+  "suites": [
+    {
+      "title": "Mobile App Testing",
+      "duration": 195841,
+      "start": "2023-05-29T12:18:29.417Z",
+      "end": "2023-05-29T12:21:45.258Z",
+      "tests": [
+        {
+          "title": "Explore_Bookmarks",
+          "start": "2023-05-29T12:18:29.420Z",
+          "duration": 0,
+          "state": "skipped"
+        },
+        {
+          "title": "Verifying_Deleting_Bookmarks",
+          "start": "2023-05-29T12:18:29.422Z",
+          "duration": 0,
+          "state": "skipped"
+        },
+        {
+          "title": "Video_recentLesson",
+          "start": "2023-05-29T12:18:29.422Z",
+          "duration": 0,
+          "state": "skipped"
+        },
+        {
+          "title": "Settings",
+          "start": "2023-05-29T12:18:29.423Z",
+          "end": "2023-05-29T12:19:05.486Z",
+          "duration": 36063,
+          "state": "passed",
+          "screenshots": [
+            "D:\\wdioPROJECT\\reports\\file-1685362711670.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362712849.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362718997.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362719498.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362720387.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362720795.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362722141.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362722590.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362723415.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362723833.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362725296.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362725709.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362726381.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362726811.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362727540.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362727966.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362732957.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362734092.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362735706.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362736152.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362737396.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362737820.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362738998.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362739418.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362740858.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362744184.jpeg"
+          ]
+        },
+        {
+          "title": "Arts_humanities",
+          "start": "2023-05-29T12:19:05.493Z",
+          "end": "2023-05-29T12:20:31.401Z",
+          "duration": 85908,
+          "state": "passed",
+          "screenshots": [
+            "D:\\wdioPROJECT\\reports\\file-1685362746150.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362762448.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362762841.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362763952.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362764377.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362779690.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362780080.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362817124.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362817574.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362821738.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362822140.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362824551.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362824888.jpeg"
+          ]
+        },
+        {
+          "title": "AppSwith",
+          "start": "2023-05-29T12:20:31.405Z",
+          "end": "2023-05-29T12:21:45.249Z",
+          "duration": 73844,
+          "state": "passed",
+          "screenshots": [
+            "D:\\wdioPROJECT\\reports\\file-1685362832642.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362834745.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362835667.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362839979.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362840346.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362850999.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362851426.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362852363.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362852713.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362885748.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362886895.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362888671.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362889614.jpeg",
+            "D:\\wdioPROJECT\\reports\\file-1685362905899.jpeg"
+          ]
+        },
+        {
+          "title": "Closing",
+          "start": "2023-05-29T12:21:45.255Z",
+          "duration": 0,
+          "state": "skipped"
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///D:/wdioPROJECT/test/specs/khan_academy.js"
+  ],
+  "state": {
+    "passed": 3,
+    "failed": 0,
+    "skipped": 4
+  }
+}
